@@ -86,8 +86,7 @@ namespace Test
                 deskPoint.X = curPoint.X ;
                 deskPoint.Y = curPoint.Y + 30;
 
-                double _s = System.Math.Sqrt(Math.Pow((deskPoint.X - curPoint.X), 2) + Math.Pow((deskPoint.Y - curPoint.Y), 2));
-                double _secNumber = (_s / 1000) * 500;
+                double _secNumber = 1000;
 
                 Storyboard storyboard = new Storyboard();
 
@@ -106,6 +105,9 @@ namespace Test
                 if (deskPoint.Y>=600)
                 {
                     Canvas.Children.Remove(ellPig[i]);
+                    ellPig.Remove(ellPig[i]);
+                    pigNum--;
+                    clearNum++;
                     myBlood.blood -= 1000;
                 }
                 if (myBlood.blood <= 0)
@@ -145,8 +147,7 @@ namespace Test
                 deskPoint.X = curPoint.X + 10;
                 deskPoint.Y = curPoint.Y;
 
-                double _s = System.Math.Sqrt(Math.Pow((deskPoint.X - curPoint.X), 2) + Math.Pow((deskPoint.Y - curPoint.Y), 2));
-                double _secNumber = (_s / 1000) * 500;
+                double _secNumber = 1000;
 
                 Storyboard storyboard = new Storyboard();
 
@@ -165,6 +166,9 @@ namespace Test
                 if (deskPoint.X >= 400)
                 {
                     Canvas.Children.Remove(ellCrab[i]);
+                    ellCrab.Remove(ellCrab[i]);
+                    crabNum--;
+                    clearNum++;
                     myBlood.blood -= 200;
                 }
                 if (myBlood.blood <= 0)
@@ -208,8 +212,7 @@ namespace Test
                 deskPoint.X = System.Math.Sqrt(2500 / (Math.Pow(k, 2) + 1)) + curPoint.X;
                 deskPoint.Y = k * (deskPoint.X - curPoint.X) + curPoint.Y; 
 
-                double _s = System.Math.Sqrt(Math.Pow((deskPoint.X - curPoint.X), 2) + Math.Pow((deskPoint.Y - curPoint.Y), 2));
-                double _secNumber = (_s / 1000) * 500;
+                double _secNumber = 1000;
 
                 Storyboard storyboard = new Storyboard();
 
@@ -238,12 +241,17 @@ namespace Test
                 if (deskPoint.X >= 400)
                 {
                     Canvas.Children.Remove(ellBird[i]);
-                 
+                    ellBird.Remove(ellBird[i]);
+                    birdNum--;
+                    clearNum++;
                     myBlood.blood -= 100;
                 }
                 else if (deskPoint.Y >= 600)
                 {
                     Canvas.Children.Remove(ellBird[i]);
+                    ellBird.Remove(ellBird[i]);
+                    birdNum--;
+                    clearNum++;
                     myBlood.blood -= 100;
                 }
                 if (myBlood.blood <= 0)
@@ -290,10 +298,7 @@ namespace Test
                     deskPoint.X = curPoint.X - 10;
                     deskPoint.Y = curPoint.Y + 10;
                 }
-                
-
-                double _s = System.Math.Sqrt(Math.Pow((deskPoint.X - curPoint.X), 2) + Math.Pow((deskPoint.Y - curPoint.Y), 2));
-                double _secNumber = (_s / 1000) * 500;
+                double _secNumber = 1000;
 
                 Storyboard storyboard = new Storyboard();
 
@@ -321,7 +326,10 @@ namespace Test
                 storyboard.Begin();
                 if (deskPoint.Y >= 600)
                 {
-                    Canvas.Children.Remove(ellBird[i]);
+                    Canvas.Children.Remove(ellSnake[i]);
+                    ellSnake.Remove(ellSnake[i]);
+                    snakeNum--;
+                    clearNum++;
                     myBlood.blood -= 500;
                 }
                 if (myBlood.blood <= 0)
