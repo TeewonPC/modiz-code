@@ -1,0 +1,28 @@
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\MainWindow.g.cs
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\App.g.cs
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test_MarkupCompile.cache
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test_MarkupCompile.lref
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\MainWindow.baml
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.g.resources
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\modiz\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\modiz\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\modiz\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\modiz\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\App.g.cs
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.g.resources
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\modiz\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
