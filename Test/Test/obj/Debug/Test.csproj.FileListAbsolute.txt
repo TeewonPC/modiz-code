@@ -1,0 +1,14 @@
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\bin\Debug\Test.exe.config
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\bin\Debug\Test.exe
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\bin\Debug\Test.pdb
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\App.g.cs
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.g.resources
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.exe
+C:\Users\modiz\Documents\GitHub\modiz-code\Test\Test\obj\Debug\Test.pdb
